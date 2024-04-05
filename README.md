@@ -1,6 +1,6 @@
 # SkinDiseaseDetection
 # Major Project : A Deep Learning Approach for Automated prognosis for Skin Disease Detection
-     The aim is to introduce a deep learning approach for the automated prognosis of skin diseases, 
+The aim is to introduce a deep learning approach for the automated prognosis of skin diseases, 
 leveraging image analysis techniques. The methodology integrates diverse deep learning 
 strategies to enhance the accuracy and efficiency of skin disease prognosis. By combining 
 various neural network architectures, including convolutional neural networks (CNNs) 
